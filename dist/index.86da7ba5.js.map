@@ -1,0 +1,1 @@
+{"mappings":"AAAA,MAAM,SAAiB;AAGvB,QAAQ,GAAG,CAAC","sources":["src/script.ts"],"sourcesContent":["const number: number = 1\n\n\nconsole.log(number);"],"names":[],"version":3,"file":"index.86da7ba5.js.map","sourceRoot":"/__parcel_source_root/"}
